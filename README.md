@@ -102,9 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naman0867/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/naman0867/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/naman0867/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
