@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/naman0867/Leetcode-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naman0867/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
