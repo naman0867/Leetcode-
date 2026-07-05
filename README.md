@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naman0867/Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/naman0867/Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
