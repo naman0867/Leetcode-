@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/naman0867/Leetcode-/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/naman0867/Leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
