@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/naman0867/Leetcode-/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/naman0867/Leetcode-/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naman0867/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/naman0867/Leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/naman0867/Leetcode-/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/naman0867/Leetcode-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/naman0867/Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/naman0867/Leetcode-/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
