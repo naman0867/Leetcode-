@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naman0867/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
+| [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naman0867/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/naman0867/Leetcode-/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/naman0867/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/naman0867/Leetcode-/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
