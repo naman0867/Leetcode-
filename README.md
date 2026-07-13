@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naman0867/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/naman0867/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/naman0867/Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/naman0867/Leetcode-/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman0867/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naman0867/Leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
