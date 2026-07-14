@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/naman0867/Leetcode-/tree/master/3620-network-recovery-pathways) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/naman0867/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naman0867/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naman0867/Leetcode-/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman0867/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/naman0867/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/naman0867/Leetcode-/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/naman0867/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naman0867/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naman0867/Leetcode-/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/naman0867/Leetcode-/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman0867/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/naman0867/Leetcode-/tree/master/0190-reverse-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
