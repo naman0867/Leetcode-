@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/naman0867/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naman0867/Leetcode-/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman0867/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/naman0867/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naman0867/Leetcode-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/naman0867/Leetcode-/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
