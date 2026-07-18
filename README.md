@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman0867/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
+| [0994-rotting-oranges](https://github.com/naman0867/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/naman0867/Leetcode-/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/naman0867/Leetcode-/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naman0867/Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naman0867/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/naman0867/Leetcode-/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/naman0867/Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
