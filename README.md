@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/naman0867/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman0867/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naman0867/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/naman0867/Leetcode-/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naman0867/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naman0867/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naman0867/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/naman0867/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naman0867/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/naman0867/Leetcode-/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Queue
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/naman0867/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
