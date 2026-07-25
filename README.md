@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/naman0867/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman0867/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
+| [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/naman0867/Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/naman0867/Leetcode-/tree/master/3620-network-recovery-pathways) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naman0867/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naman0867/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/naman0867/Leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/naman0867/Leetcode-/tree/master/0785-is-graph-bipartite) |
+| [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naman0867/Leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naman0867/Leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/naman0867/Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/naman0867/Leetcode-/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
