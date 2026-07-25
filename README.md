@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman0867/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman0867/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
+| [0630-course-schedule-iii](https://github.com/naman0867/Leetcode-/tree/master/0630-course-schedule-iii) |
 | [0705-design-hashset](https://github.com/naman0867/Leetcode-/tree/master/0705-design-hashset) |
 | [0994-rotting-oranges](https://github.com/naman0867/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/naman0867/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman0867/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
+| [0630-course-schedule-iii](https://github.com/naman0867/Leetcode-/tree/master/0630-course-schedule-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/naman0867/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/naman0867/Leetcode-/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/naman0867/Leetcode-/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
+| [0630-course-schedule-iii](https://github.com/naman0867/Leetcode-/tree/master/0630-course-schedule-iii) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/naman0867/Leetcode-/tree/master/0630-course-schedule-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/naman0867/Leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/naman0867/Leetcode-/tree/master/3620-network-recovery-pathways) |
