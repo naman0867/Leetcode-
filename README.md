@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naman0867/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naman0867/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2187-minimum-time-to-complete-trips](https://github.com/naman0867/Leetcode-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2498-frog-jump-ii](https://github.com/naman0867/Leetcode-/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0875-koko-eating-bananas](https://github.com/naman0867/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naman0867/Leetcode-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2187-minimum-time-to-complete-trips](https://github.com/naman0867/Leetcode-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2498-frog-jump-ii](https://github.com/naman0867/Leetcode-/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/naman0867/Leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
