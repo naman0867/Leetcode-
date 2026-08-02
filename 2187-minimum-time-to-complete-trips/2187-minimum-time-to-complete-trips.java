@@ -3,7 +3,7 @@ class Solution {
         long minTime = Integer.MAX_VALUE;
         for (int t : time) minTime = Math.min(minTime, t);
 
-        long lo = 1, hi = minTime * totalTrips;   // fastest bus does all trips alone
+        long lo = 1, hi = minTime * totalTrips; 
 
         while (lo < hi) {
             long mid = lo + (hi - lo) / 2;
@@ -17,7 +17,7 @@ class Solution {
         long trips = 0;
         for (int d : time) {
             trips += t / d;
-            if (trips >= totalTrips) return true;   // early exit guards overflow
+            if (trips >= totalTrips) return true;
         }
         return false;
     }
