@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman0867/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
 | [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/naman0867/Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naman0867/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naman0867/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/naman0867/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/naman0867/Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/naman0867/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/naman0867/Leetcode-/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/naman0867/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/naman0867/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/naman0867/Leetcode-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
@@ -379,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
