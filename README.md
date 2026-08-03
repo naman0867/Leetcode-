@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/naman0867/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naman0867/Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naman0867/Leetcode-/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/naman0867/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/naman0867/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naman0867/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/naman0867/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/naman0867/Leetcode-/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/naman0867/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/naman0867/Leetcode-/tree/master/0535-encode-and-decode-tinyurl) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/naman0867/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0417-pacific-atlantic-water-flow](https://github.com/naman0867/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/naman0867/Leetcode-/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naman0867/Leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
