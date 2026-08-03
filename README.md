@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/naman0867/Leetcode-/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/naman0867/Leetcode-/tree/master/1406-stone-game-iii) |
 | [2050-parallel-courses-iii](https://github.com/naman0867/Leetcode-/tree/master/2050-parallel-courses-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/naman0867/Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naman0867/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/naman0867/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naman0867/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/naman0867/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/naman0867/Leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/naman0867/Leetcode-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1288-remove-covered-intervals](https://github.com/naman0867/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/naman0867/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/naman0867/Leetcode-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naman0867/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/naman0867/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naman0867/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -385,4 +388,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/naman0867/Leetcode-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/naman0867/Leetcode-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/naman0867/Leetcode-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
