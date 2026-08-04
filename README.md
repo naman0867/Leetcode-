@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naman0867/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/naman0867/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/naman0867/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/naman0867/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/naman0867/Leetcode-/tree/master/0853-car-fleet) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman0867/Leetcode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/naman0867/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/naman0867/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/naman0867/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0785-is-graph-bipartite](https://github.com/naman0867/Leetcode-/tree/master/0785-is-graph-bipartite) |
@@ -415,10 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman0867/Leetcode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/naman0867/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/naman0867/Leetcode-/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/naman0867/Leetcode-/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/naman0867/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/naman0867/Leetcode-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
