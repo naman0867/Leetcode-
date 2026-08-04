@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/naman0867/Leetcode-/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/naman0867/Leetcode-/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/naman0867/Leetcode-/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/naman0867/Leetcode-/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/naman0867/Leetcode-/tree/master/0608-tree-node) |
 | [0627-swap-sex-of-employees](https://github.com/naman0867/Leetcode-/tree/master/0627-swap-sex-of-employees) |
