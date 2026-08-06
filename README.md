@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/naman0867/Leetcode-/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/naman0867/Leetcode-/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naman0867/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/naman0867/Leetcode-/tree/master/0877-stone-game) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/naman0867/Leetcode-/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/naman0867/Leetcode-/tree/master/0231-power-of-two) |
 | [0868-binary-gap](https://github.com/naman0867/Leetcode-/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/naman0867/Leetcode-/tree/master/1009-complement-of-base-10-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/naman0867/Leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/naman0867/Leetcode-/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/naman0867/Leetcode-/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
